@@ -1,0 +1,12 @@
+index,name,group,weight
+0,반기문,root,1
+1,인천,LC,5
+2,경북,LC,5
+3,유엔,OG,22
+4,뉴욕,LC,5
+5,북한,LC,8
+6,송도,LC,5
+7,UN,OG,7
+8,WEF,OG,4
+9,일본,LC,4
+10,미국,LC,5
