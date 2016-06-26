@@ -15,12 +15,15 @@
 | R_scraping    | 웹데이터 데이터 긁어오기         |
 | README.md     | 본 Repository 소개          |
 
++ 경우에 따라 서울열린데이터광장 API xml 가지고 오는 교육 포함될 예정
  
 ##강의자료
 
 아래 링크에서 다운로드 받을 수 있습니다
 
-- Download (https://goo.gl/JNuj4r)
+- 강의슬라이드 DAY1 (https://goo.gl/YqFUtV) pw:konkuk2016
+- 강의슬라이드 DAY2 (https://goo.gl/i1dpsK)
+- 강의슬라이드 DAY3 (https://goo.gl/dg4pKi)
 
 ##실습 프로그램 다운로드
 
