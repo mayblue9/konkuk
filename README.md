@@ -25,6 +25,20 @@
 - 강의슬라이드 DAY2 (https://goo.gl/i1dpsK)
 - 강의슬라이드 DAY3 (https://goo.gl/dg4pKi)
 
+##OpenRefine 정규표현식 코드 & Google Spreadsheet
+
+- value.replace(/\(.+\)/, "") -> 괄호 안의 내용 모두 삭제(괄호 포함)
+- Edit cells -> Transform
+- OpenRefine Website (http://openrefine.org/)
+- =IMPORTHTML("https://en.wikipedia.org/wiki/World_population", "table", 14)
+- =IMPORTXML("http://www.nytimes.com", "//h2[@class='story-heading']")
+- 데이터 수집 실습1 : https://goo.gl/3oOvIx
+ - =IMPORTXML("http://score.sports.media.daum.net/record/baseball/kbo/brnk.daum", "//td[@class='txt_league']")
+- 데이터 수집 실습2 : https://goo.gl/3oOvIx
+ - =IMPORTXML(A2, "//td[@class='post_subject']")
+- 데이터 정제 실습2 : https://goo.gl/vvl5Dv
+ - \(.+\)
+
 ##실습 프로그램 다운로드
 
 아래 링크에서 다운로드 받을 수 있습니다
